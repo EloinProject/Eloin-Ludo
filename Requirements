@@ -5,10 +5,10 @@
   3. The user should also be able to play without the actual participants, meaning there should be some functionalities to play with PC or AI.
 
   4. In order to join the game, users will have to:
-    • Stake certain amount of tokens which is already deployed- https://coinmarketcap.com/currencies/eloin/
-    • Connect their wallet
-    • Pay some entry fee
-    • Wait for other users to join
+      • Stake certain amount of tokens which is already deployed- https://coinmarketcap.com/currencies/eloin/
+      • Connect their wallet
+      • Pay some entry fee
+      • Wait for other users to join
 
   5. The reward distribution for the winners should be in shared manner, meaning, the winners will get some percentage of the total amount.
       • 10% of total amount should go into owner’s wallet
