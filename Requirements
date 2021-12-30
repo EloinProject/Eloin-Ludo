@@ -19,3 +19,4 @@ Note : Reward distribution may differ as the number of players may not be always
 Once the game is over and the reward is distributed the users should be able to redeem their tokens.
 The dice and chips should be in the form of eloin logo (our token).
 If some players drop out of the game due to whatsoever reasons (connectivity issue or something else), their entry fee should not be reverted back to their wallet, no new player can join that game and reward should be distributed among the players left.
+
