@@ -1,21 +1,26 @@
-The game should be integrated with blockchain and should include wallet connect options such as metamask, trust wallet and wallet connect. In order to play the game the user has to connect their wallet first.
-As already discussed, it should be a multiplayer game with maximum of 4 participants. Also users should be able to play the game if there are more than 1 players in the game. In most simple words, the game can be played with any number of players (either 2 ,3 or 4).
-The user should also be able to play without the actual participants, meaning there should be some functionalities to play with PC or AI.
-In order to join the game, users will have to:
-  •	Stake certain amount of tokens which is already deployed- https://coinmarketcap.com/currencies/eloin/
-  •	Connect their wallet
-  •	Pay some entry fee
-  •	Wait for other users to join
+  1. The game should be integrated with blockchain and should include wallet connect options such as metamask, trust wallet and wallet connect. In order to play the game the user has to connect their wallet first.
 
-The reward distribution for the winners should be in shared manner, meaning, the winners will get some percentage of the total amount.
-  •	10% of total amount should go into owner’s wallet
-  •	1st position will get 50% of the total amount.
-  •	2nd position should get 25% of the total amount.
-  •	3rd position will get 10% of total amount.
-  •	4th position will get 5% of total amount.
-  
-Note : Reward distribution may differ as the number of players may not be always 4.If the number of players are less than 4, please divide the rewards accordingly provided 10% of total amount should go into owner’s wallet.
+  2. As already discussed, it should be a multiplayer game with maximum of 4 participants. Also users should be able to play the game if there are more than 1 players in the game. In other words, the game can be played with any number of players (either 2 ,3 or 4).
 
-Once the game is over and the reward is distributed the users should be able to redeem their tokens.
-The dice and chips should be in the form of eloin logo (our token).
-If some players drop out of the game due to whatsoever reasons (connectivity issue or something else), their entry fee should not be reverted back to their wallet, no new player can join that game and reward should be distributed among the players left.
+  3. The user should also be able to play without the actual participants, meaning there should be some functionalities to play with PC or AI.
+
+  4. In order to join the game, users will have to:
+      • Stake certain amount of tokens which is already deployed- https://coinmarketcap.com/currencies/eloin/
+      • Connect their wallet
+      • Pay some entry fee
+      • Wait for other users to join
+
+  5. The reward distribution for the winners should be in shared manner, meaning, the winners will get some percentage of the total amount.
+      • 10% of total amount should go into owner’s wallet
+      • 1st position will get 50% of the total amount.
+      • 2nd position should get 25% of the total amount.
+      • 3rd position will get 10% of total amount.
+      • 4th position will get 5% of total amount.
+
+  Note : Reward distribution may differ as the number of players may not be always 4.If the number of players are less than 4, please divide the rewards accordingly provided 10% of total amount should go into owner’s wallet.
+
+  6. Once the game is over and the reward is distributed the users should be able to redeem their tokens.
+
+  7. The dice and chips should be in the form of eloin logo (our token).
+
+  8. If some players drop out of the game due to whatsoever reasons (connectivity issue or something else), their entry fee should not be reverted back to their wallet, no new player can join that game and reward should be distributed among the players left.
